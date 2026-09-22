@@ -1,6 +1,6 @@
 # Project-Aqua
 
- Project-Aqua 🌍🌊Autonomous and Eco-Responsible Underwater Digital Infrastructure SystemA common good developed by humanity, for humanity.
+ Project-Aqua 🌍🌊Autonomous and Eco-Responsible Underwater Digital Infrastructure System. A common good developed by humanity, for humanity.
  📜 LICENSE AND OWNERSHIP
  This project is shared under the Creative Commons Attribution - NonCommercial - ShareAlike (CC BY-NC-SA) license.Right to Copy and Use: Completely free and open to everyone. Anti-Profit: Strict prohibition for any entity or corporation to commercialize, patent, or privatize this innovation for financial gain.
  🔬 1. ARCHITECTURE AND COOLING VIA CLOSED PHYSICO-CHEMICAL TRANSITION
