@@ -20,6 +20,6 @@ The system reuses its own thermal energy to self-power.Energy-Creating Thermal S
 
  This project was entirely conceived, designed, and ethically structured by a human creator. AI was utilized strictly as a tool for linguistic refinement, structuring, and professional translation. The core innovations—including the closed-loop physico-chemical transition, the automated acoustic wildlife protection, and the ballast-driven maintenance system—are the result of independent human engineering aimed at serving humanity without profit. 
 
- even this but yk tried to look profesionnal.
+ yk tried to look profesionnal.
  brr brr skrrr
  
